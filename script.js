@@ -1,3 +1,6 @@
 function Hello(){
-    
+     
+} 
+     
+function GoodBye(){
 }
